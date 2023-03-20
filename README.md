@@ -17,7 +17,7 @@
 | University  |  : Udayana University |
 |  Major |  : Financial Management  |
 
-Hi! You can call me Sifa...
+Hi! You can call me Sifa...  
 I'm an undergraduate Management student from Bali and now I'm learning Data Analytics at Zenius.  
 This page will be a place where I will show off my works.
 
