@@ -16,6 +16,15 @@
 | University  |  : Udayana University |
 |  Major |  : Financial Management  |
 
+Hi! You can call me Sifa. Thankyou for coming to my page^^  
+I'm an undergraduate Management student from Bali and now I'm learning Data Analytics at Zenius.  
+This page will be a place where I will show off my works.
+
+------------
+
+## Portfolio
+- Portfolio 1: [Porto 1](https://github.com/rahmasifas/day3_test) - Learning Phyton: Day 3
+
 ------------
 
 |  You can find me @ |
