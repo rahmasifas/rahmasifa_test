@@ -24,7 +24,8 @@ This page will be a place where I will show off my works.
 ------------
 
 ## Portfolio
-- Portfolio 1: [Porto 1](https://github.com/rahmasifas/day3_test) - Learning Phyton: Day 3
+- Portfolio 1: [Porto 1](https://github.com/rahmasifas/day3_test) - Learning Phyton 1: Day 3
+- Portfolio 2: [Porto 2](https://github.com/rahmasifas/phyton_2) - Learning Phyton 2: Day 4
 
 ------------
 
