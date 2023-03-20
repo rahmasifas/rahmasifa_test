@@ -11,7 +11,7 @@
 ## But Hey! Let me introduce myself!
 |  Name | : Rahmasifa Safira  |
 | ------------ | ------------ |
-| Canvas ID  |  164 |
+| Canvas ID  | : 164 |
 | University  | : Udayana University  |
 |  Major | : Financial Management  |
 
@@ -23,3 +23,5 @@
 
 
 [https://github.com/rahmasifas]: https://github.com/rahmasifas
+[https://www.linkedin.com/in/rahmasifa/]: https://www.linkedin.com/in/rahmasifa/
+[http://instagram.com/rahmasifas]: http://instagram.com/rahmasifas
