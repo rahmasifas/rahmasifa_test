@@ -15,6 +15,8 @@
 | University  |  : Udayana University |
 |  Major |  : Financial Management  |
 
+------------
+
 |  You can find me @ |
 | ------------ |
 | [Github][https://github.com/rahmasifas]  |
