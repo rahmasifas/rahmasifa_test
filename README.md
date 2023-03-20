@@ -1,14 +1,14 @@
-# PORTFOLIO
+# **RAHMASIFA'S PORTFOLIO**
 
 ------------
 
 ## Welcome to My First Github Pages! ;)
-### It is still in progress because I still don't know how to use it properly hehe...
-### I made this to complete my [1 & 2 Assignment] from Zenius.
+#### It is still in progress because I still don't know how to use it properly hehe...
+#### I made this to complete my [1 & 2 Assignment] from Zenius.
 
 ------------
 
-## But Hey! Let me introduce myself!
+## But hey! Let me introduce myself!
 
 | Name   |  : Rahmasifa Safira  |
 | :------------ | :------------ |
